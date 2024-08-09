@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lord Scout</h1>
-- 🔭 I’m currently working on [litecart.info](https://litecart.info/)
-- 🌱 I’m currently learning **Java, Python**
+- 🔭 I’m currently working on own TeleBot/async Bot projects
+- 🔭 I’m currently learning Best Practice in QA Projects
+- 🌱 I’m currently using **Java, Python**
 
 
 
